@@ -1,0 +1,126 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(34, 34, 34);
+
+}
+
+.text{
+    padding-left: 15px;
+    font-size: 1.5rem;
+    color: white;
+
+}
+
+.text2{
+    color: rgb(34, 34, 34);
+
+}
+
+.Bill-Icon{
+    width: 97%;
+    height: 500px;
+    padding: 16px;
+    object-fit: cover;
+    object-position: 50% 50%;
+    display: block;
+
+    padding-bottom: 100px;
+
+}
+
+.stages{
+    width: 97%;
+    height: 750px;
+    padding: 16px;
+
+}
+
+.Lyx-OS{
+    color: rgb(255, 255, 255);
+    background-color: rgb(22, 22, 22);
+    justify-content: space-between;
+    padding-left: 3%;
+    padding-right: 3%;
+
+}
+
+.sky-img{
+    padding: 16px;
+    justify-content: space-between;
+
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(22, 22, 22);
+
+    padding-right: 50px;
+
+}
+
+a{
+    color: rgb(200, 200, 200);
+    text-decoration: none;
+    margin-left: 16px;
+    font-weight: 700;
+
+}
+
+a:hover{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    text-decoration: underline;
+
+}
+
+.button-behaelter{
+    min-height: 50vh;
+    width: 14%;
+    height: 20px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.buttonG{
+    font-size: 3rem;
+    font-weight: bold;
+    padding-left: 50px;
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    cursor: pointer;
+
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+
+    border-radius: 0.5em;
+
+    border: 2px solid rgb(22, 22, 22);
+    justify-content: space-evenly;
+
+}
+
+.buttonG:hover{
+    font-size: 3rem;
+
+    background-color: rgba(255, 255, 255, 0.200);
+    border: 2px solid rgb(255, 255, 255);
+
+    padding: 50px;
+
+    justify-content: space-evenly;
+
+}
+
+.GAMES{
+    color: rgb(255, 255, 255);
+    background-color: rgb(22, 22, 22);
+    padding-left: 3%;
+    padding-right: 3%;
+
+}
